@@ -1,0 +1,12 @@
+#use an existing docker image as a base 
+
+FROM alphine 
+
+#download and install a dependency 
+
+RUN apk add --update node.js 
+
+#tell the image what to do when it start 
+
+CMD ["redis-server"]
+#as a container

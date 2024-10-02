@@ -1,0 +1,16 @@
+2024-09-28 06:03:58.906 [info] Extension host with pid 42467 started
+2024-09-28 06:03:58.937 [info] Lock '/home/tanu/.vscode-server/data/User/workspaceStorage/acb12a34bd2463cbb5aea47bd086be4b/vscode.lock': Lock acquired.
+2024-09-28 06:03:58.991 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-09-28 06:03:59.071 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-28 06:03:59.234 [info] Eager extensions activated
+2024-09-28 06:03:59.235 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-28 06:03:59.236 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-28 06:03:59.737 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-28 06:03:59.738 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-28 06:03:59.739 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-28 06:03:59.739 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-28 06:04:02.703 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-09-28 06:07:14.366 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+2024-09-29 01:09:36.801 [info] Extension host terminating: received terminate message from renderer
+2024-09-29 01:09:36.807 [info] Lock '/home/tanu/.vscode-server/data/User/workspaceStorage/acb12a34bd2463cbb5aea47bd086be4b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-09-29 01:09:37.065 [info] Extension host with pid 42467 exiting with code 0

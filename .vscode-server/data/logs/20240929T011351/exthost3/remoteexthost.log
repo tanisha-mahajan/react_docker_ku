@@ -1,0 +1,8 @@
+2024-09-30 10:50:44.060 [info] Extension host with pid 28147 started
+2024-09-30 10:50:44.094 [info] Lock '/home/tanu/.vscode-server/data/User/workspaceStorage/808937af573e39d92c595045789670ce/vscode.lock': Lock acquired.
+2024-09-30 10:50:44.187 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-30 10:50:44.252 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-30 10:50:44.253 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-30 10:50:44.806 [info] Eager extensions activated
+2024-09-30 10:50:44.806 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-30 10:50:44.807 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

@@ -1,0 +1,43 @@
+2024-09-29 01:13:51.869 [info] 
+
+
+
+
+2024-09-29 01:13:51.882 [info] Extension host agent started.
+2024-09-29 01:13:52.043 [info] [127.0.0.1][5d77f643][ManagementConnection] New connection established.
+2024-09-29 01:13:52.223 [info] [127.0.0.1][a3e85af3][ExtensionHostConnection] New connection established.
+2024-09-29 01:13:52.274 [info] [127.0.0.1][a3e85af3][ExtensionHostConnection] <73442> Launched Extension Host Process.
+2024-09-29 07:17:43.695 [info] [127.0.0.1][5d77f643][ManagementConnection] The client has reconnected.
+2024-09-29 07:17:43.849 [info] [127.0.0.1][a3e85af3][ExtensionHostConnection] The client has reconnected.
+2024-09-29 07:37:16.578 [info] [127.0.0.1][5d77f643][ManagementConnection] The client has reconnected.
+2024-09-29 07:37:16.694 [info] [127.0.0.1][a3e85af3][ExtensionHostConnection] The client has reconnected.
+2024-09-30 10:47:35.242 [info] [127.0.0.1][5d77f643][ManagementConnection] The client has reconnected.
+2024-09-30 10:47:35.390 [info] [127.0.0.1][a3e85af3][ExtensionHostConnection] The client has reconnected.
+2024-09-30 10:49:54.791 [info] [127.0.0.1][b3ea3446][ManagementConnection] New connection established.
+2024-09-30 10:49:55.458 [info] [127.0.0.1][d030e9c4][ExtensionHostConnection] New connection established.
+2024-09-30 10:49:55.545 [info] [127.0.0.1][d030e9c4][ExtensionHostConnection] <27632> Launched Extension Host Process.
+2024-09-30 10:50:34.242 [info] [127.0.0.1][b3ea3446][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-30 10:50:34.361 [info] [127.0.0.1][d030e9c4][ExtensionHostConnection] <27632> Extension Host Process exited with code: 0, signal: null.
+2024-09-30 10:50:42.155 [info] [127.0.0.1][98bed12b][ManagementConnection] New connection established.
+2024-09-30 10:50:42.784 [info] [127.0.0.1][9a24e4da][ExtensionHostConnection] New connection established.
+2024-09-30 10:50:42.794 [info] [127.0.0.1][9a24e4da][ExtensionHostConnection] <28147> Launched Extension Host Process.
+2024-09-30 10:57:29.185 [info] [127.0.0.1][64b57d5d][ManagementConnection] New connection established.
+2024-09-30 10:57:29.964 [info] [127.0.0.1][575b2ee1][ExtensionHostConnection] New connection established.
+2024-09-30 10:57:30.027 [info] [127.0.0.1][575b2ee1][ExtensionHostConnection] <31847> Launched Extension Host Process.
+2024-09-30 11:00:43.804 [info] [127.0.0.1][64b57d5d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-30 11:00:44.019 [info] [127.0.0.1][575b2ee1][ExtensionHostConnection] <31847> Extension Host Process exited with code: 0, signal: null.
+2024-09-30 11:01:06.696 [info] [127.0.0.1][1c9a0173][ManagementConnection] New connection established.
+2024-09-30 11:01:07.400 [info] [127.0.0.1][2bf108ef][ExtensionHostConnection] New connection established.
+2024-09-30 11:01:07.409 [info] [127.0.0.1][2bf108ef][ExtensionHostConnection] <34242> Launched Extension Host Process.
+2024-10-02 01:20:46.860 [info] [127.0.0.1][2bf108ef][ExtensionHostConnection] The client has reconnected.
+2024-10-02 01:20:47.177 [info] [127.0.0.1][1c9a0173][ManagementConnection] The client has reconnected.
+2024-10-02 01:20:48.236 [info] [127.0.0.1][a3e85af3][ExtensionHostConnection] The client has reconnected.
+2024-10-02 01:20:48.698 [info] [127.0.0.1][5d77f643][ManagementConnection] The client has reconnected.
+2024-10-02 01:20:49.361 [info] [127.0.0.1][9a24e4da][ExtensionHostConnection] The client has reconnected.
+2024-10-02 01:20:50.108 [info] [127.0.0.1][98bed12b][ManagementConnection] The client has reconnected.
+2024-10-02 19:53:02.703 [info] [127.0.0.1][a3e85af3][ExtensionHostConnection] The client has reconnected.
+2024-10-02 19:53:02.925 [info] [127.0.0.1][9a24e4da][ExtensionHostConnection] The client has reconnected.
+2024-10-02 19:53:03.208 [info] [127.0.0.1][5d77f643][ManagementConnection] The client has reconnected.
+2024-10-02 19:53:03.656 [info] [127.0.0.1][98bed12b][ManagementConnection] The client has reconnected.
+2024-10-02 19:53:04.043 [info] [127.0.0.1][1c9a0173][ManagementConnection] The client has reconnected.
+2024-10-02 19:53:04.331 [info] [127.0.0.1][2bf108ef][ExtensionHostConnection] The client has reconnected.

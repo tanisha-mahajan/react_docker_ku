@@ -1,0 +1,42 @@
+2024-09-29 01:09:33.285 [info] Extension host with pid 72065 started
+2024-09-29 01:09:33.310 [info] Lock '/home/tanu/.vscode-server/data/User/workspaceStorage/9f4f9b08a99f29a16926bb3bd4a5b89c/vscode.lock': Lock acquired.
+2024-09-29 01:09:33.344 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-09-29 01:09:33.395 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-29 01:09:33.549 [info] Eager extensions activated
+2024-09-29 01:09:33.550 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-29 01:09:33.550 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-29 01:09:35.277 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-09-29 01:09:36.803 [info] Extension host terminating: received terminate message from renderer
+2024-09-29 01:09:36.803 [info] Lock '/home/tanu/.vscode-server/data/User/workspaceStorage/9f4f9b08a99f29a16926bb3bd4a5b89c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-09-29 01:09:36.884 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+	at new I (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/vs/workbench/api/node/extensionHostProcess.js:146:34990)
+	at S.U (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/vs/workbench/api/node/extensionHostProcess.js:153:6023)
+	at z.<computed>.F.charCodeAt.T.CharCode.DollarSign.z.<computed> (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/vs/workbench/api/node/extensionHostProcess.js:153:3107)
+	at M.loadCertificates (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/vs/workbench/api/node/extensionHostProcess.js:159:43397)
+	at Object.loadAdditionalCertificates (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/out/vs/workbench/api/node/extensionHostProcess.js:141:33100)
+	at /home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:497:53
+	at Generator.next (<anonymous>)
+	at /home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at /home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:496:43
+	at /home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:498:16
+	at Generator.next (<anonymous>)
+	at /home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at getOrLoadAdditionalCertificates (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:494:12)
+	at addCertificatesV1 (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:478:9)
+	at resolveProxy (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:113:9)
+	at /home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:325:77
+	at new Promise (<anonymous>)
+	at _PacProxyAgent.resolveP [as resolver] (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/index.js:325:54)
+	at _PacProxyAgent.<anonymous> (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/agent.js:70:37)
+	at Generator.next (<anonymous>)
+	at /home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/agent.js:8:71
+	at new Promise (<anonymous>)
+	at __awaiter (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/agent.js:4:12)
+	at _PacProxyAgent.connect (/home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/@vscode/proxy-agent/out/agent.js:52:16)
+	at /home/tanu/.vscode-server/bin/f1e16e1e6214d7c44d078b1f0607b2388f29d729/node_modules/agent-base/dist/index.js:73:30
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-29 01:09:36.885 [info] Extension host with pid 72065 exiting with code 0

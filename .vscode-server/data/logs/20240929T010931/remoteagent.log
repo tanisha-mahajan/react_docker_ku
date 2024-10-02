@@ -1,0 +1,19 @@
+2024-09-29 01:09:31.884 [info] 
+
+
+
+
+2024-09-29 01:09:31.897 [info] Extension host agent started.
+2024-09-29 01:09:31.975 [info] [127.0.0.1][893dfbc5][ManagementConnection] New connection established.
+2024-09-29 01:09:32.273 [info] [127.0.0.1][5a74184a][ExtensionHostConnection] New connection established.
+2024-09-29 01:09:32.374 [info] [127.0.0.1][5a74184a][ExtensionHostConnection] <72065> Launched Extension Host Process.
+2024-09-29 01:09:35.724 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-09-29 01:09:35.832 [info] Installing extension: ms-azuretools.vscode-docker {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:22:23.548Z"},"pinned":false,"isApplicationScoped":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/tanu/.vscode-server/extensions/extensions.json","external":"file:///home/tanu/.vscode-server/extensions/extensions.json","path":"/home/tanu/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-09-29 01:09:36.804 [info] [127.0.0.1][893dfbc5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-29 01:09:36.938 [info] [127.0.0.1][5a74184a][ExtensionHostConnection] <72065> Extension Host Process exited with code: 0, signal: null.
+2024-09-29 01:09:38.944 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Executed: true. Duration: 1656ms.
+2024-09-29 01:09:39.181 [info] Extracted extension to file:///home/tanu/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3: ms-azuretools.vscode-docker
+2024-09-29 01:09:39.192 [info] Renamed to /home/tanu/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3
+2024-09-29 01:09:39.200 [error] [/home/tanu/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-09-29 01:09:39.214 [error] [/home/tanu/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-09-29 01:09:39.218 [error] Error while installing the extension ms-azuretools.vscode-docker Cannot read the extension from /home/tanu/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3 file:///home/tanu/.vscode-server/extensions/extensions.json
